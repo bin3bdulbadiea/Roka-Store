@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810088496805",
+    "project_id": "roka-store-c938b",
+    "storage_bucket": "roka-store-c938b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810088496805:android:47e5bb39a5f5cb378d574c",
+        "android_client_info": {
+          "package_name": "com.abuarin.rokastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo_eARtYudzg2JHmAhUvHzGCRAyZBuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
